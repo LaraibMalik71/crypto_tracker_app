@@ -28,33 +28,42 @@ Featuring a modern dark-themed interface, Crypto Tracker brings essential crypto
 
 ## 📱 App Preview
 
-### 🏠 Market Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### 🔍 Search & Discovery
-
-![Search](screenshots/search.png)
-
-### 🪙 Coin Details & Market Statistics
-
-![Coin Statistics](screenshots/coin-details-statistics.png)
-
-### 📈 Historical Price Chart
-
-![Price History](screenshots/coin-details-price-history.png)
-
-### 📊 Trading Volume & Coin Overview
-
-![Coin Overview](screenshots/coin-details-overview.png)
-
-### ⭐ Personal Watchlist
-
-![Watchlist](screenshots/watchlist.png)
-
-### 👤 User Profile
-
-![Profile](screenshots/profile.png)
+<table>
+  <tr>
+    <td align="center">
+      <b>🏠 Market Dashboard</b><br><br>
+      <img src="screenshots/dashboard.png" width="180" alt="Market Dashboard">
+    </td>
+    <td align="center">
+      <b>🔍 Search & Discovery</b><br><br>
+      <img src="screenshots/search.png" width="180" alt="Search Screen">
+    </td>
+    <td align="center">
+      <b>🪙 Coin Statistics</b><br><br>
+      <img src="screenshots/coin-details-statistics.png" width="180" alt="Coin Statistics">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>📈 Price History</b><br><br>
+      <img src="screenshots/coin-details-price-history.png" width="180" alt="Price History">
+    </td>
+    <td align="center">
+      <b>📊 Coin Overview</b><br><br>
+      <img src="screenshots/coin-details-overview.png" width="180" alt="Coin Overview">
+    </td>
+    <td align="center">
+      <b>⭐ Personal Watchlist</b><br><br>
+      <img src="screenshots/watchlist.png" width="180" alt="Watchlist">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>👤 User Profile</b><br><br>
+      <img src="screenshots/profile.png" width="180" alt="User Profile">
+    </td>
+  </tr>
+</table>
 
 ---
 
